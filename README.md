@@ -58,3 +58,7 @@ Some vim colorschemes.
 ### Custom font for Termux
 
 The font name is **Hack**, it's probably from font-awesome. Be sure to run `termux-reload-settings` after placing colorschemes and font.ttf under `~/.termux` direcotory.
+
+### Installation
+
+Clone the repo, cd into the repo, run install.ah with `sh install.sh`.
