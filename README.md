@@ -47,9 +47,14 @@ Toggle spell check with spy and spn
 
 ### Night-owl colorscheme
 
-A customized version of a darker colorscheme for termux. See screenshots.
+A customized version of a darker colorscheme for termux.
 
-[screenshots](screenshots/)
+![screenshots](screenshots/1.jpg)
+![screenshots](screenshots/2.jpg)
+![screenshots](screenshots/3.jpg)
+![screenshots](screenshots/4.jpg)
+![screenshots](screenshots/5.jpg)
+![screenshots](screenshots/6.jpg)
 
 ### Vim colorschemes
 
