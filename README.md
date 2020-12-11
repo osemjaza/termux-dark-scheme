@@ -32,6 +32,7 @@
 
 6. Uncomment line 1-6 if you want command not found message along with suggested packages everytime you put in a wrong command.
 
+7. Go back one directory with `..` and two directories with `...`
 
 ### Stuffs in vimrc
 
@@ -66,4 +67,4 @@ The font name is **Hack**, it's probably from font-awesome. Be sure to run `term
 
 ### Installation
 
-Clone the repo, cd into the repo, run install.ah with `sh install.sh`.
+Clone the repo, cd into the repo, run install.sh with `sh install.sh`.
