@@ -188,7 +188,7 @@ case "$font" in
 esac
 
 case "$colorsc" in
-	"6") echo "\nCopying inputrc..."
+	"6") echo "\nCopying colors.properties..."
 		if [ -e ~/.termux/colors.properties ]; then
 			echo "\nA.termux/colors.properties configuration file already exists in your home directory, do you want to replace it with the new one?"
 			echo
