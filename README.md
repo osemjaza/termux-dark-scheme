@@ -68,3 +68,5 @@ The font name is **Hack**, it's probably from font-awesome. Be sure to run `term
 ### Installation
 
 Clone the repo, cd into the repo, run install.sh with `sh install.sh`.
+
+Feel free to support at [bitcoin] 13erq7DDXDuqqBohht3UNyuJCXtpJcWGSe
